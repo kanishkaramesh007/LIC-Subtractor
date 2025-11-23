@@ -43,9 +43,9 @@ PC with LT Spice Software
 ![WhatsApp Image 2025-11-22 at 23 00 24_5bf4d97f](https://github.com/user-attachments/assets/42c1fba8-a1d7-42f4-85f7-029779a36b61)
 
 ## Output:
-##INPUT WAVEFORM
+INPUT WAVEFORM
 ![WhatsApp Image 2025-11-23 at 13 46 09_42181f24](https://github.com/user-attachments/assets/655e43ae-5756-4749-a9fe-3ffa3ef36120)
-##OUTPUT WAVEFORM
+OUTPUT WAVEFORM
 ![WhatsApp Image 2025-11-23 at 13 58 12_2aa3ea96](https://github.com/user-attachments/assets/f11b2eea-ca5b-4195-9062-b7c9cfff2ab7)
 
 ## Result:
